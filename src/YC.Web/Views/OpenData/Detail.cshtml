@@ -1,0 +1,36 @@
+﻿@model YC.Models.OpenData
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h2>Detail</h2>
+
+<div>
+    <h4>OpenData</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.資料集名稱)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.資料集名稱)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.主要欄位說明)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.主要欄位說明)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.服務分類)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.服務分類)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

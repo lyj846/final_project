@@ -1,0 +1,12 @@
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\bin\Debug\netcoreapp2.1\YC.Application.deps.json
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\bin\Debug\netcoreapp2.1\YC.Application.dll
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\bin\Debug\netcoreapp2.1\YC.Application.pdb
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\bin\Debug\netcoreapp2.1\YC.Core.dll
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\bin\Debug\netcoreapp2.1\YC.Core.pdb
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\obj\Debug\netcoreapp2.1\YC.Application.csprojAssemblyReference.cache
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\obj\Debug\netcoreapp2.1\YC.Application.csproj.CoreCompileInputs.cache
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\obj\Debug\netcoreapp2.1\YC.Application.AssemblyInfoInputs.cache
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\obj\Debug\netcoreapp2.1\YC.Application.AssemblyInfo.cs
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\obj\Debug\netcoreapp2.1\YC.Application.csproj.CopyComplete
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\obj\Debug\netcoreapp2.1\YC.Application.dll
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Application\obj\Debug\netcoreapp2.1\YC.Application.pdb

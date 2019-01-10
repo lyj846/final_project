@@ -1,0 +1,9 @@
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Core\bin\Debug\netcoreapp2.1\YC.Core.deps.json
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Core\bin\Debug\netcoreapp2.1\YC.Core.dll
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Core\bin\Debug\netcoreapp2.1\YC.Core.pdb
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Core\obj\Debug\netcoreapp2.1\YC.Core.csprojAssemblyReference.cache
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Core\obj\Debug\netcoreapp2.1\YC.Core.csproj.CoreCompileInputs.cache
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Core\obj\Debug\netcoreapp2.1\YC.Core.AssemblyInfoInputs.cache
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Core\obj\Debug\netcoreapp2.1\YC.Core.AssemblyInfo.cs
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Core\obj\Debug\netcoreapp2.1\YC.Core.dll
+C:\Users\lyj\Downloads\fuck\1228\Web-Js\src\YC.Core\obj\Debug\netcoreapp2.1\YC.Core.pdb
